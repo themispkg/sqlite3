@@ -1,5 +1,5 @@
 # sqlite3
-this repository is originally a clone of [sqlite3](https://www.sqlite.org) and is an unofficial fork, this version is a reflection of regular sqlite
+this repository is originally a clone of [sqlite3](https://www.sqlite.org) and is an unofficial fork, this version is a reflection of regular sqlite.
 
 ## Installation:
 ```bash
