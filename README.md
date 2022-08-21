@@ -3,7 +3,7 @@ this repository is originally a clone of [sqlite3](https://www.sqlite.org) and i
 
 ## Installation:
 ```bash
-git clone https://github.com/themispkg/sqlite3
+git clone https://github.com/themispkg/sqlite3sh
 cd sqlite3
 bash configure
 make
