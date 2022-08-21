@@ -1,10 +1,10 @@
-# sqlite3
-this repository is originally a clone of [sqlite3](https://www.sqlite.org) and is an unofficial fork, this version is a reflection of regular sqlite.
+# sqlite3sh
+this repository is originally a clone of [sqlite3sh](https://www.sqlite.org) and is an unofficial fork to librarize for bash, this version is a reflection of regular sqlite3sh.
 
 ## Installation:
 ```bash
 git clone https://github.com/themispkg/sqlite3sh
-cd sqlite3
+cd sqlite3sh
 bash configure
 make
 make install
