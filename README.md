@@ -5,7 +5,7 @@ this repository is originally a clone of [sqlite3sh](https://www.sqlite.org) and
 ```bash
 git clone https://github.com/themispkg/sqlite3sh
 cd sqlite3sh
-bash configure
+sh configure
 make
 make install
 ```
